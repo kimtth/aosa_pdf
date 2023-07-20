@@ -1,16 +1,14 @@
 # The Architecture of Open Source Applications
-The original files came from below. not me. :)
-i hope these to help.
-<dl>
-<dt>The Architecture of Open Source Applications</dt>
-  <dd>&nbsp;&nbsp;&nbsp;&nbsp;http://aosabook.org/en/index.html</dd>
-<dt>The Architecture of Open Source Applications's Source code is located in repository </dt>
-   <dd>https://github.com/aosabook/aosabook</dd>
-   <dd>https://github.com/gxcsoccer/PDisk</dd>
-<dt>500 Lines or Less's Source code is located in repository</dt>
-   <dd>https://github.com/aosabook/500lines</dd>
-   <dd>https://github.com/strump/500lines-pdf</dd>
-</dl>
+The original files came from below. Not published by me. I hope this helps.
+
+- The Architecture of Open Source Applications
+  - http://aosabook.org/en/index.html
+- `The Architecture of Open Source Applications` is referring to the repository.
+  - https://github.com/aosabook/aosabook
+  - https://github.com/gxcsoccer/PDisk
+- `500 Lines or Less` is referring to the repository
+  - https://github.com/aosabook/500lines
+  - https://github.com/strump/500lines-pdf
 
 
 

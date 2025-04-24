@@ -12,6 +12,9 @@ The original PDF files came from the below links. Not published by me.
 - `500 Lines or Less`
   - https://github.com/aosabook/500lines
   - https://github.com/strump/500lines-pdf
-
-
+ 
+- `Software Design by Example`
+   - The PDF files were created by the `sdx_html_to_pdf.py` script, which scrapes a webpage and converts the HTML to PDF.
+   - A Tool-Based Introduction with Python: https://third-bit.com/sdxpy/
+   - A Tool-Based Introduction with JavaScript: https://third-bit.com/sdxjs/
 
